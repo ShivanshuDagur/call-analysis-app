@@ -1,0 +1,1292 @@
+{
+    "jobName": "home",
+    "accountId": "312696281142",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "Hi sorry, i missed you, michael calling. Here's home central. Here's a chance to finally afford those important home improvements that i die into your home. Here's home satchels are offering no interest financing for two years old doors windows roofing central air conditioning for covering just called what for a free no obligation at home estimate. Enjoy your home improvements now and pay later. I look forward to hearing from you."
+            }
+        ],
+        "speaker_labels": {
+            "speakers": 2,
+            "segments": [
+                {
+                    "start_time": "0.365",
+                    "speaker_label": "spk_0",
+                    "end_time": "3.975",
+                    "items": [
+                        {
+                            "start_time": "0.365",
+                            "speaker_label": "spk_0",
+                            "end_time": "0.815"
+                        },
+                        {
+                            "start_time": "0.825",
+                            "speaker_label": "spk_0",
+                            "end_time": "1.145"
+                        },
+                        {
+                            "start_time": "1.145",
+                            "speaker_label": "spk_0",
+                            "end_time": "1.195"
+                        },
+                        {
+                            "start_time": "1.195",
+                            "speaker_label": "spk_0",
+                            "end_time": "1.515"
+                        },
+                        {
+                            "start_time": "1.515",
+                            "speaker_label": "spk_0",
+                            "end_time": "1.635"
+                        },
+                        {
+                            "start_time": "1.695",
+                            "speaker_label": "spk_0",
+                            "end_time": "2.085"
+                        },
+                        {
+                            "start_time": "2.085",
+                            "speaker_label": "spk_0",
+                            "end_time": "2.485"
+                        },
+                        {
+                            "start_time": "2.745",
+                            "speaker_label": "spk_0",
+                            "end_time": "3.035"
+                        },
+                        {
+                            "start_time": "3.045",
+                            "speaker_label": "spk_0",
+                            "end_time": "3.345"
+                        },
+                        {
+                            "start_time": "3.345",
+                            "speaker_label": "spk_0",
+                            "end_time": "3.975"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "4.565",
+                    "speaker_label": "spk_0",
+                    "end_time": "8.975",
+                    "items": [
+                        {
+                            "start_time": "4.565",
+                            "speaker_label": "spk_0",
+                            "end_time": "4.985"
+                        },
+                        {
+                            "start_time": "4.985",
+                            "speaker_label": "spk_0",
+                            "end_time": "5.035"
+                        },
+                        {
+                            "start_time": "5.045",
+                            "speaker_label": "spk_0",
+                            "end_time": "5.395"
+                        },
+                        {
+                            "start_time": "5.395",
+                            "speaker_label": "spk_0",
+                            "end_time": "5.465"
+                        },
+                        {
+                            "start_time": "5.475",
+                            "speaker_label": "spk_0",
+                            "end_time": "5.855"
+                        },
+                        {
+                            "start_time": "5.855",
+                            "speaker_label": "spk_0",
+                            "end_time": "6.295"
+                        },
+                        {
+                            "start_time": "6.295",
+                            "speaker_label": "spk_0",
+                            "end_time": "6.475"
+                        },
+                        {
+                            "start_time": "6.475",
+                            "speaker_label": "spk_0",
+                            "end_time": "6.925"
+                        },
+                        {
+                            "start_time": "6.925",
+                            "speaker_label": "spk_0",
+                            "end_time": "7.135"
+                        },
+                        {
+                            "start_time": "7.135",
+                            "speaker_label": "spk_0",
+                            "end_time": "7.665"
+                        },
+                        {
+                            "start_time": "7.675",
+                            "speaker_label": "spk_0",
+                            "end_time": "7.795"
+                        },
+                        {
+                            "start_time": "7.795",
+                            "speaker_label": "spk_0",
+                            "end_time": "7.905"
+                        },
+                        {
+                            "start_time": "7.915",
+                            "speaker_label": "spk_0",
+                            "end_time": "8.215"
+                        },
+                        {
+                            "start_time": "8.215",
+                            "speaker_label": "spk_0",
+                            "end_time": "8.375"
+                        },
+                        {
+                            "start_time": "8.375",
+                            "speaker_label": "spk_0",
+                            "end_time": "8.555"
+                        },
+                        {
+                            "start_time": "8.555",
+                            "speaker_label": "spk_0",
+                            "end_time": "8.975"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "9.765",
+                    "speaker_label": "spk_0",
+                    "end_time": "17.135",
+                    "items": [
+                        {
+                            "start_time": "9.765",
+                            "speaker_label": "spk_0",
+                            "end_time": "9.995"
+                        },
+                        {
+                            "start_time": "9.995",
+                            "speaker_label": "spk_0",
+                            "end_time": "10.255"
+                        },
+                        {
+                            "start_time": "10.275",
+                            "speaker_label": "spk_0",
+                            "end_time": "10.705"
+                        },
+                        {
+                            "start_time": "10.705",
+                            "speaker_label": "spk_0",
+                            "end_time": "10.765"
+                        },
+                        {
+                            "start_time": "10.765",
+                            "speaker_label": "spk_0",
+                            "end_time": "11.175"
+                        },
+                        {
+                            "start_time": "11.185",
+                            "speaker_label": "spk_0",
+                            "end_time": "11.395"
+                        },
+                        {
+                            "start_time": "11.395",
+                            "speaker_label": "spk_0",
+                            "end_time": "11.675"
+                        },
+                        {
+                            "start_time": "11.685",
+                            "speaker_label": "spk_0",
+                            "end_time": "12.435"
+                        },
+                        {
+                            "start_time": "12.445",
+                            "speaker_label": "spk_0",
+                            "end_time": "12.615"
+                        },
+                        {
+                            "start_time": "12.625",
+                            "speaker_label": "spk_0",
+                            "end_time": "12.835"
+                        },
+                        {
+                            "start_time": "12.835",
+                            "speaker_label": "spk_0",
+                            "end_time": "13.115"
+                        },
+                        {
+                            "start_time": "13.125",
+                            "speaker_label": "spk_0",
+                            "end_time": "13.415"
+                        },
+                        {
+                            "start_time": "13.425",
+                            "speaker_label": "spk_0",
+                            "end_time": "13.865"
+                        },
+                        {
+                            "start_time": "14.055",
+                            "speaker_label": "spk_0",
+                            "end_time": "14.745"
+                        },
+                        {
+                            "start_time": "14.755",
+                            "speaker_label": "spk_0",
+                            "end_time": "15.375"
+                        },
+                        {
+                            "start_time": "15.425",
+                            "speaker_label": "spk_0",
+                            "end_time": "15.795"
+                        },
+                        {
+                            "start_time": "15.795",
+                            "speaker_label": "spk_0",
+                            "end_time": "15.885"
+                        },
+                        {
+                            "start_time": "15.885",
+                            "speaker_label": "spk_0",
+                            "end_time": "16.415"
+                        },
+                        {
+                            "start_time": "16.425",
+                            "speaker_label": "spk_0",
+                            "end_time": "16.695"
+                        },
+                        {
+                            "start_time": "16.695",
+                            "speaker_label": "spk_0",
+                            "end_time": "17.135"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "17.945",
+                    "speaker_label": "spk_0",
+                    "end_time": "18.475",
+                    "items": [
+                        {
+                            "start_time": "17.945",
+                            "speaker_label": "spk_0",
+                            "end_time": "18.135"
+                        },
+                        {
+                            "start_time": "18.145",
+                            "speaker_label": "spk_0",
+                            "end_time": "18.475"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "19.365",
+                    "speaker_label": "spk_1",
+                    "end_time": "19.545",
+                    "items": [
+                        {
+                            "start_time": "19.365",
+                            "speaker_label": "spk_1",
+                            "end_time": "19.545"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "21.765",
+                    "speaker_label": "spk_0",
+                    "end_time": "26.775",
+                    "items": [
+                        {
+                            "start_time": "21.765",
+                            "speaker_label": "spk_0",
+                            "end_time": "21.945"
+                        },
+                        {
+                            "start_time": "21.945",
+                            "speaker_label": "spk_0",
+                            "end_time": "22.015"
+                        },
+                        {
+                            "start_time": "22.025",
+                            "speaker_label": "spk_0",
+                            "end_time": "22.285"
+                        },
+                        {
+                            "start_time": "22.285",
+                            "speaker_label": "spk_0",
+                            "end_time": "22.415"
+                        },
+                        {
+                            "start_time": "22.415",
+                            "speaker_label": "spk_0",
+                            "end_time": "23.045"
+                        },
+                        {
+                            "start_time": "23.045",
+                            "speaker_label": "spk_0",
+                            "end_time": "23.125"
+                        },
+                        {
+                            "start_time": "23.125",
+                            "speaker_label": "spk_0",
+                            "end_time": "23.345"
+                        },
+                        {
+                            "start_time": "23.345",
+                            "speaker_label": "spk_0",
+                            "end_time": "23.875"
+                        },
+                        {
+                            "start_time": "24.265",
+                            "speaker_label": "spk_0",
+                            "end_time": "24.625"
+                        },
+                        {
+                            "start_time": "24.625",
+                            "speaker_label": "spk_0",
+                            "end_time": "24.755"
+                        },
+                        {
+                            "start_time": "24.755",
+                            "speaker_label": "spk_0",
+                            "end_time": "24.925"
+                        },
+                        {
+                            "start_time": "24.925",
+                            "speaker_label": "spk_0",
+                            "end_time": "25.385"
+                        },
+                        {
+                            "start_time": "25.395",
+                            "speaker_label": "spk_0",
+                            "end_time": "25.915"
+                        },
+                        {
+                            "start_time": "25.925",
+                            "speaker_label": "spk_0",
+                            "end_time": "26.085"
+                        },
+                        {
+                            "start_time": "26.085",
+                            "speaker_label": "spk_0",
+                            "end_time": "26.295"
+                        },
+                        {
+                            "start_time": "26.295",
+                            "speaker_label": "spk_0",
+                            "end_time": "26.775"
+                        }
+                    ]
+                },
+                {
+                    "start_time": "30.965",
+                    "speaker_label": "spk_0",
+                    "end_time": "32.285",
+                    "items": [
+                        {
+                            "start_time": "30.965",
+                            "speaker_label": "spk_0",
+                            "end_time": "31.135"
+                        },
+                        {
+                            "start_time": "31.135",
+                            "speaker_label": "spk_0",
+                            "end_time": "31.305"
+                        },
+                        {
+                            "start_time": "31.305",
+                            "speaker_label": "spk_0",
+                            "end_time": "31.555"
+                        },
+                        {
+                            "start_time": "31.555",
+                            "speaker_label": "spk_0",
+                            "end_time": "31.645"
+                        },
+                        {
+                            "start_time": "31.645",
+                            "speaker_label": "spk_0",
+                            "end_time": "31.855"
+                        },
+                        {
+                            "start_time": "31.855",
+                            "speaker_label": "spk_0",
+                            "end_time": "32.085"
+                        },
+                        {
+                            "start_time": "32.085",
+                            "speaker_label": "spk_0",
+                            "end_time": "32.285"
+                        }
+                    ]
+                }
+            ]
+        },
+        "items": [
+            {
+                "start_time": "0.365",
+                "end_time": "0.815",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "Hi"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "0.825",
+                "end_time": "1.145",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "sorry"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": null,
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "1.145",
+                "end_time": "1.195",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "i"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.195",
+                "end_time": "1.515",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "missed"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "1.515",
+                "end_time": "1.635",
+                "alternatives": [
+                    {
+                        "confidence": "0.9947",
+                        "content": "you"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": null,
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "1.695",
+                "end_time": "2.085",
+                "alternatives": [
+                    {
+                        "confidence": "0.9979",
+                        "content": "michael"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "2.085",
+                "end_time": "2.485",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "calling"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": null,
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "2.745",
+                "end_time": "3.035",
+                "alternatives": [
+                    {
+                        "confidence": "0.3286",
+                        "content": "Here's"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.045",
+                "end_time": "3.345",
+                "alternatives": [
+                    {
+                        "confidence": "0.9744",
+                        "content": "home"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "3.345",
+                "end_time": "3.975",
+                "alternatives": [
+                    {
+                        "confidence": "0.9866",
+                        "content": "central"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": null,
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "4.565",
+                "end_time": "4.985",
+                "alternatives": [
+                    {
+                        "confidence": "0.9942",
+                        "content": "Here's"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "4.985",
+                "end_time": "5.035",
+                "alternatives": [
+                    {
+                        "confidence": "0.9838",
+                        "content": "a"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.045",
+                "end_time": "5.395",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "chance"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.395",
+                "end_time": "5.465",
+                "alternatives": [
+                    {
+                        "confidence": "0.982",
+                        "content": "to"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.475",
+                "end_time": "5.855",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "finally"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "5.855",
+                "end_time": "6.295",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "afford"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.295",
+                "end_time": "6.475",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "those"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.475",
+                "end_time": "6.925",
+                "alternatives": [
+                    {
+                        "confidence": "0.9987",
+                        "content": "important"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "6.925",
+                "end_time": "7.135",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "home"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.135",
+                "end_time": "7.665",
+                "alternatives": [
+                    {
+                        "confidence": "0.8495",
+                        "content": "improvements"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.675",
+                "end_time": "7.795",
+                "alternatives": [
+                    {
+                        "confidence": "0.9577",
+                        "content": "that"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.795",
+                "end_time": "7.905",
+                "alternatives": [
+                    {
+                        "confidence": "0.8545",
+                        "content": "i"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "7.915",
+                "end_time": "8.215",
+                "alternatives": [
+                    {
+                        "confidence": "0.3718",
+                        "content": "die"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.215",
+                "end_time": "8.375",
+                "alternatives": [
+                    {
+                        "confidence": "0.3199",
+                        "content": "into"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.375",
+                "end_time": "8.555",
+                "alternatives": [
+                    {
+                        "confidence": "0.7386",
+                        "content": "your"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "8.555",
+                "end_time": "8.975",
+                "alternatives": [
+                    {
+                        "confidence": "0.9958",
+                        "content": "home"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": null,
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "9.765",
+                "end_time": "9.995",
+                "alternatives": [
+                    {
+                        "confidence": "0.5047",
+                        "content": "Here's"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "9.995",
+                "end_time": "10.255",
+                "alternatives": [
+                    {
+                        "confidence": "0.9046",
+                        "content": "home"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "10.275",
+                "end_time": "10.705",
+                "alternatives": [
+                    {
+                        "confidence": "0.5168",
+                        "content": "satchels"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "10.705",
+                "end_time": "10.765",
+                "alternatives": [
+                    {
+                        "confidence": "0.6902",
+                        "content": "are"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "10.765",
+                "end_time": "11.175",
+                "alternatives": [
+                    {
+                        "confidence": "0.9031",
+                        "content": "offering"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.185",
+                "end_time": "11.395",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "no"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.395",
+                "end_time": "11.675",
+                "alternatives": [
+                    {
+                        "confidence": "0.9962",
+                        "content": "interest"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "11.685",
+                "end_time": "12.435",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "financing"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.445",
+                "end_time": "12.615",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "for"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.625",
+                "end_time": "12.835",
+                "alternatives": [
+                    {
+                        "confidence": "0.7914",
+                        "content": "two"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "12.835",
+                "end_time": "13.115",
+                "alternatives": [
+                    {
+                        "confidence": "0.7965",
+                        "content": "years"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.125",
+                "end_time": "13.415",
+                "alternatives": [
+                    {
+                        "confidence": "0.8533",
+                        "content": "old"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "13.425",
+                "end_time": "13.865",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "doors"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.055",
+                "end_time": "14.745",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "windows"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "14.755",
+                "end_time": "15.375",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "roofing"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.425",
+                "end_time": "15.795",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "central"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.795",
+                "end_time": "15.885",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "air"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "15.885",
+                "end_time": "16.415",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "conditioning"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.425",
+                "end_time": "16.695",
+                "alternatives": [
+                    {
+                        "confidence": "0.9777",
+                        "content": "for"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "16.695",
+                "end_time": "17.135",
+                "alternatives": [
+                    {
+                        "confidence": "0.847",
+                        "content": "covering"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "17.945",
+                "end_time": "18.135",
+                "alternatives": [
+                    {
+                        "confidence": "0.715",
+                        "content": "just"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "18.145",
+                "end_time": "18.475",
+                "alternatives": [
+                    {
+                        "confidence": "0.6942",
+                        "content": "called"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "19.365",
+                "end_time": "19.545",
+                "alternatives": [
+                    {
+                        "confidence": "0.2262",
+                        "content": "what"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "21.765",
+                "end_time": "21.945",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "for"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "21.945",
+                "end_time": "22.015",
+                "alternatives": [
+                    {
+                        "confidence": "0.7854",
+                        "content": "a"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.025",
+                "end_time": "22.285",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "free"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.285",
+                "end_time": "22.415",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "no"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "22.415",
+                "end_time": "23.045",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "obligation"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.045",
+                "end_time": "23.125",
+                "alternatives": [
+                    {
+                        "confidence": "0.8064",
+                        "content": "at"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.125",
+                "end_time": "23.345",
+                "alternatives": [
+                    {
+                        "confidence": "0.9915",
+                        "content": "home"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "23.345",
+                "end_time": "23.875",
+                "alternatives": [
+                    {
+                        "confidence": "0.9828",
+                        "content": "estimate"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": null,
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "24.265",
+                "end_time": "24.625",
+                "alternatives": [
+                    {
+                        "confidence": "0.9995",
+                        "content": "Enjoy"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "24.625",
+                "end_time": "24.755",
+                "alternatives": [
+                    {
+                        "confidence": "0.9885",
+                        "content": "your"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "24.755",
+                "end_time": "24.925",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "home"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "24.925",
+                "end_time": "25.385",
+                "alternatives": [
+                    {
+                        "confidence": "0.6853",
+                        "content": "improvements"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "25.395",
+                "end_time": "25.915",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "now"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "25.925",
+                "end_time": "26.085",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "and"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.085",
+                "end_time": "26.295",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "pay"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "26.295",
+                "end_time": "26.775",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "later"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": null,
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "30.965",
+                "end_time": "31.135",
+                "alternatives": [
+                    {
+                        "confidence": "0.9961",
+                        "content": "I"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "31.135",
+                "end_time": "31.305",
+                "alternatives": [
+                    {
+                        "confidence": "0.9975",
+                        "content": "look"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "31.305",
+                "end_time": "31.555",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "forward"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "31.555",
+                "end_time": "31.645",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "to"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "31.645",
+                "end_time": "31.855",
+                "alternatives": [
+                    {
+                        "confidence": "0.9998",
+                        "content": "hearing"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "31.855",
+                "end_time": "32.085",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "from"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "32.085",
+                "end_time": "32.285",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "you"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": null,
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            }
+        ]
+    },
+    "status": "COMPLETED"
+}
